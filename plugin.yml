@@ -38,7 +38,7 @@ commands:
     permission: heal.core
   fly:
     description: §e[Core]§4fly
-    permission: heal.core
+    permission: fly.core
   info:
     description: §e[Core]§4info
     permission: core.info
