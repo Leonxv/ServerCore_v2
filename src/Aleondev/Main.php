@@ -13,7 +13,7 @@
 
     public function onEnable()
     {
-        $this->getLogger()->info("[core] Aktiviert by Aleondev.");
+        $this->getLogger()->info("[Core] Aktiviert by Aleondev.");
     }
 
     public $fts;
